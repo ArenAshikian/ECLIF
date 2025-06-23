@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# React build output
+build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# MacOS
+.DS_Store
